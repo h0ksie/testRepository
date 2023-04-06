@@ -1,3 +1,3 @@
-public class testClass {
+public class TestClass {
     //    Hello, world!
 }
