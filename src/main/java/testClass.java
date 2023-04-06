@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class testClass {
+public class testClass {
+    //    Hello, world!
 }
